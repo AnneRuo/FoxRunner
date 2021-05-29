@@ -1,0 +1,186 @@
+body {
+  font-family: "Montserrat", sans-serif;  
+}
+.container-fluid {
+  padding: 3% 5% 5%;
+}
+
+#title {
+  background-color: #66bfbf;
+}
+
+.title-text {
+  color: #fcfefe;
+  font-family: 'Handlee', cursive;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: 'Lilita One', cursive;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  color: #a1dd70;
+}
+
+.title-image {
+  width: 50%;
+  margin-left: 100px;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 3rem;
+}
+
+.navbar-brand {
+  font-family: 'Righteous', cursive;
+  color: #00818a !important;
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Features */
+#features {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #eaf6f6;
+  position: relative;
+}
+
+.features-1 {
+  padding: 4.5%;
+}
+
+h3 {
+  font-family: 'Lilita One', cursive;
+  color: #00818a;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 8px;
+}
+
+h2 {
+  font-family: 'Lilita One', cursive;
+  color: #00818a;
+  line-height: 1.5;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.icon {
+  color: #a1dd70;
+  font-size: 2.5rem;
+}
+
+.icon:hover {
+  color: #85ef47;
+}
+
+.fox2-image {
+  width: 40%;
+}
+
+/* testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #66bfbf;
+  color: #eaf6f6;
+}
+
+.testimonial-text {
+  color: #a1dd70;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  width: 20%;
+  margin: 20px;
+}
+
+.testimonial-name {
+  color: #eaf6f6;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Contact */
+#contact {
+  background-color: #eaf6f6;
+}
+
+.form-group {
+  width: 70%; 
+}
+
+/* footer */
+#footer {
+    text-align: center;
+    background-color: #66bfbf;
+    color: #eaf6f6;
+}
+
+.footer-icon {
+  color: #a1dd70;
+  font-size: 2.5rem;
+  margin: 20px;
+}
+
+.footer-icon:hover {
+  color: #85ef47;
+}
+
+.footer-navigation {
+  margin: 20px;
+}
+
+.footer-link {
+  margin: 0px;
+  color: #eaeaea
+}
+
+.footer-link:hover {
+  color: #fcfefe;
+  text-decoration: none;
+}
+
+.footer-rules {
+  margin: 30px;
+  }
+
+.rules-link {
+  margin: 30px;
+  color: #eaeaea;
+}
+
+.rules-link:hover {
+  text-decoration: none;
+  color: #fcfefe;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  margin-top: 30px;
+ 
+}
